@@ -9,16 +9,17 @@
 //#define WIFI_SSID "Leonardo 2.4"
 //#define WIFI_PASSWORD "Leonardo0505"
 
-#define WIFI_SSID "ISABELLA"
-#define WIFI_PASSWORD "leonardo19"
+// Definir a conexão com a rede WiFi
+#define WIFI_SSID "REDE"
+#define WIFI_PASSWORD "SENHA DA REDE"
 
-/* 2. Define the API Key */
-#define API_KEY "AIzaSyD5JyjkBwvLkY53oqVeX2R9OvB7mtgZ_t0"
+// Informe a chave da API
+#define API_KEY "Chave"
 
-/* 3. Define the project ID */
+// Informe o ID do projeto no firebase
 #define FIREBASE_PROJECT_ID "smart-sensor-d771a"
 
-/* 4. Define the user Email and password that alreadey registerd or added in your project */
+// Informe o usuário administrador previamente criado
 #define USER_EMAIL "admin@gmail.com"
 #define USER_PASSWORD "admin123"
 
